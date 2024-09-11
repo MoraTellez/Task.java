@@ -12,3 +12,4 @@ C:\Users\ramse\OneDrive\Documentos\internship\optional\obj\Debug\net8.0\refint\d
 C:\Users\ramse\OneDrive\Documentos\internship\optional\obj\Debug\net8.0\dotnethelper.pdb
 C:\Users\ramse\OneDrive\Documentos\internship\optional\obj\Debug\net8.0\dotnethelper.genruntimeconfig.cache
 C:\Users\ramse\OneDrive\Documentos\internship\optional\obj\Debug\net8.0\ref\dotnethelper.dll
+C:\Users\ramse\OneDrive\Documentos\internship\optional\obj\Debug\net8.0\dotnethelper.sourcelink.json

@@ -46,4 +46,4 @@ ProcessStartInfo javaInfo = new ProcessStartInfo
 Process javaProcess = Process.Start(javaInfo) ?? throw new InvalidOperationException("Failed to start java process.");
 javaProcess.WaitForExit();
 
-Console.WriteLine(javaProcess.StandardOutput.ReadToEnd());
+Console.Write(javaProcess.StandardOutput.ReadToEnd());
