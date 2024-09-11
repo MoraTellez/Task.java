@@ -1,0 +1,14 @@
+C:\Users\ramse\OneDrive\Documentos\internship\optional\bin\Debug\net8.0\dotnethelper.exe
+C:\Users\ramse\OneDrive\Documentos\internship\optional\bin\Debug\net8.0\dotnethelper.deps.json
+C:\Users\ramse\OneDrive\Documentos\internship\optional\bin\Debug\net8.0\dotnethelper.runtimeconfig.json
+C:\Users\ramse\OneDrive\Documentos\internship\optional\bin\Debug\net8.0\dotnethelper.dll
+C:\Users\ramse\OneDrive\Documentos\internship\optional\bin\Debug\net8.0\dotnethelper.pdb
+C:\Users\ramse\OneDrive\Documentos\internship\optional\obj\Debug\net8.0\dotnethelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramse\OneDrive\Documentos\internship\optional\obj\Debug\net8.0\dotnethelper.AssemblyInfoInputs.cache
+C:\Users\ramse\OneDrive\Documentos\internship\optional\obj\Debug\net8.0\dotnethelper.AssemblyInfo.cs
+C:\Users\ramse\OneDrive\Documentos\internship\optional\obj\Debug\net8.0\dotnethelper.csproj.CoreCompileInputs.cache
+C:\Users\ramse\OneDrive\Documentos\internship\optional\obj\Debug\net8.0\dotnethelper.dll
+C:\Users\ramse\OneDrive\Documentos\internship\optional\obj\Debug\net8.0\refint\dotnethelper.dll
+C:\Users\ramse\OneDrive\Documentos\internship\optional\obj\Debug\net8.0\dotnethelper.pdb
+C:\Users\ramse\OneDrive\Documentos\internship\optional\obj\Debug\net8.0\dotnethelper.genruntimeconfig.cache
+C:\Users\ramse\OneDrive\Documentos\internship\optional\obj\Debug\net8.0\ref\dotnethelper.dll
